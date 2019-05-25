@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/jintian/data/slam/lidar_slam/catkin_ws_hdl/devel/lib/python2.7/dist-packages",
+        "/media/jintian/data/slam/lidar_slam/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}

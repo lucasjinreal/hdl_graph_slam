@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/media/jintian/data/slam/lidar_slam/catkin_ws_hdl/devel/include",
+        "/media/jintian/data/slam/lidar_slam/catkin_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/media/jintian/data/slam/lidar_slam/catkin_ws_hdl/src/hdl_graph_slam/include",
+        "/media/jintian/data/slam/lidar_slam/catkin_ws_hdl/src/ndt_omp/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 this is a graph slam tutorial which generates point cloud map using slam. This package is a simple enough mapping tool with decent accuracy.
 
-
+![](https://s2.ax1x.com/2019/05/25/Vkfogx.md.png)
 
 ## Install
 
